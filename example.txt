@@ -19,4 +19,6 @@ Git checkout main is used to switch working directory to a specific branch calle
 Git log --online used to show condensed version commit history single line
 Git revert filename.txt  create new commit undoes changes specific commit
 Git pull is used to merge the file
+git .ignore is used to ignore the file (git filename to ignore)
+When you run git add -A, Git will stage all changes, including modifications to existing files, deleted files, and new files you've added.
 
