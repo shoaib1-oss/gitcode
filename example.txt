@@ -14,9 +14,9 @@ Git log is used to show history of commits
 Git log --grep="<pattern>" used to filter the commit history
 Git mv .\secondexample.txt another example.txt it use to rename the file
 Git commit -m "add folder structure" used to add folder
-Git restored --staged example.md is used to restore the file
+Git restored --staged example.md is used to restore the file (git restore filename )
 Git checkout main is used to switch working directory to a specific branch called main
 Git log --online used to show condensed version commit history single line
 Git revert filename.txt  create new commit undoes changes specific commit
 Git pull is used to merge the file
->>>>>>> 149ed82627cf6c6aa45bfd3195156be497f9e381
+
