@@ -1,2 +1,22 @@
+<<<<<<< HEAD
 this is an example
 this anather example
+=======
+Git add example.txt used to add file
+Git commit -m is used to save changes in file
+Git push is used send the commit file in Git website
+Git init it creates new empty repository
+Git remote add origin is used to establish connection between your local repository and remote repository
+Git push --set-upstream origin main is used to push local repository commits to a remote repository
+Git add . The dot in syntax stands for all files so it will stage all of them
+Git diff is shows difference or changes has occurred
+Git log is used to show history of commits 
+Git log --grep="<pattern>" used to filter the commit history
+Git mv .\secondexample.txt another example.txt it use to rename the file
+Git commit -m "add folder structure" used to add folder
+Git restored --staged example.md is used to restore the file
+Git checkout main is used to switch working directory to a specific branch called main
+Git log --online used to show condensed version commit history single line
+Git revert filename.txt  create new commit undoes changes specific commit
+Git pull is used to merge the file
+>>>>>>> 149ed82627cf6c6aa45bfd3195156be497f9e381
