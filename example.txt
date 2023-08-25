@@ -21,4 +21,5 @@ Git revert filename.txt  create new commit undoes changes specific commit
 Git pull is used to merge the file
 git .ignore is used to ignore the file (git filename to ignore)
 When you run git add -A, Git will stage all changes, including modifications to existing files, deleted files, and new files you've added.
-
+git checkout -b updates To create and switch to a new branch named "updates":
+git branch -D update
